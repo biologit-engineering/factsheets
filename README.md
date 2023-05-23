@@ -21,6 +21,7 @@ The repository is structured as follows:
 ```
 
 ### MLM-AI FactSheets
+* [**1.1.14.4 (Jan-23)**](https://github.com/biologit-engineering/factsheets/tree/main/mlm-ai/PROD14)
 * [**1.0.5.1 (Jun-22)**](https://github.com/biologit-engineering/factsheets/tree/main/mlm-ai/PROD5)
 * [**BETA2 (Sep-21)**](https://github.com/biologit-engineering/factsheets/tree/main/mlm-ai/BETA2)
 
